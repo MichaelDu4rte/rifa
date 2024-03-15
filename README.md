@@ -2,8 +2,8 @@
 
 ## Screenshots
 
-![alt text](https://imgur.com/pYV3NOW)
-![alt text](https://imgur.com/flgcbVe)
+![alt text](https://i.imgur.com/pYV3NOW.png)
+![alt text](https://i.imgur.com/flgcbVe.png)
 
 # Site para uma rifa
 
